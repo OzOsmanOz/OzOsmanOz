@@ -1,5 +1,5 @@
 
-2022 başlarında çıktığım IT yolculuğunda kendime koyduğum MERN stack hedefi doğrultusunda ReactJs (State management olarak Redux kullanıyorum) ile projeler yapmaktayım. Şimdiler de React Native eğitimlerime başladım. Devamında ExpressJS, NodeJs ve MongoDB çalışmayı planladım. Yaptığım çalışmaları Github hesabımda görebilirsiniz.
+2022 başlarında çıktığım IT yolculuğunda kendime koyduğum MERN stack hedefi doğrultusunda ReactJs (State management olarak Redux kullanıyorum) ile projeler yapmaktayım. Şimdiler de React Native eğitimlerime başladım. Devamında ExpressJS, NodeJs ve MongoDB çalışmayı planladım.
 
 
 
