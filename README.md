@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @OzOsmanOz
+
+2022 başlarında çıktığım IT yolculuğunda kendime koyduğum MERN stack hedefi doğrultusunda ReactJs (State management olarak Redux kullanıyorum) ile projeler yapmaktayım. Şimdiler de React Native eğitimlerime başladım. Devamında ExpressJS, NodeJs ve MongoDB çalışmayı planladım. Yaptığım çalışmaları Github hesabımda görebilirsiniz.
+
+
+
+
+[- 👋 Hi, I’m @OzOsmanOz
 - 👀 I’m interested in React Native, ExpressJS, NodeJs ve MongoDB
 - 🌱 I’m currently learning Thunk-Redux, Hooks-React and React Native
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ...]
 
 
 
