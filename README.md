@@ -8,7 +8,8 @@
 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](link) 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-quare&labelColor=0A66C2&logo=linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/ozosmanoz/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-quare&labelColor=0A66C2&logo=linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/ozosmanoz/)
+[![EMail Badge](https://img.shields.io/badge/-EMail-0A66C2?style=flat-quare&labelColor=0A66C2&logo=email&logoColor=white&link=link)](ali.osman.oz.dev@gmail.com)
 
 
 
