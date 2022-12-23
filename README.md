@@ -6,7 +6,7 @@
 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)]([link](https://github.com/OzOsmanOz)) 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-C13584?style=flat-quare&labelColor=#0A66C2&logo=instagram&logoColor=white&link=link)](https://www.linkedin.com/in/ozosmanoz/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-C13584?style=flat-quare&labelColor=0A66C2&logo=instagram&logoColor=white&link=link)](https://www.linkedin.com/in/ozosmanoz/) 
 
 
 <!---
