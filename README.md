@@ -1,6 +1,6 @@
 Merhabalar
 
-2022 başlarında çıktığım IT yolculuğunda kendime koyduğum MERN stack hedefi doğrultusunda ReactJs (State management olarak Redux kullanıyorum) ile projeler yapmaktayım. Şimdiler de Thunk-Redux, Hooks-React ile projelerimi geliştirmeye çalışıyorum. Aynı zamanda React Native eğitimime başladım. Devamında ExpressJS, NodeJs ve MongoDB çalışmayı planladım.
+2022 başlarında çıktığım IT yolculuğunda kendime koyduğum MERN stack hedefi doğrultusunda ReactJs (State management olarak Redux kullanıyorum) ile projeler yapmaktayım. Şimdiler de Thunk-Redux, Hooks-React ile projelerimi geliştirmeye çalışıyorum. React Native eğitimimi de tamamladım ve mobil uygulamalar da yapmaktayım. Devamında ExpressJS, NodeJs ve MongoDB çalışmayı planladım.
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-quare&labelColor=0A66C2&logo=linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/ozosmanoz/)
